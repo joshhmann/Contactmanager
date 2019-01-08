@@ -9,7 +9,7 @@ class App extends Component {
         <Header branding= "Contact Manager" />
         <div className="container">
           <Contacts />
-        </div>
+        </div> 
       </div>
     );
   }
